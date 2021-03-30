@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @n-ventory
+- 👋 Hi, I’m NV
 - 👀 I’m interested in powerlifting, crypto-finance and mobile-tech
 - 🌱 I’m currently trying to improve my enterprise mobility skills
