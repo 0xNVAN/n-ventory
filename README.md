@@ -1,3 +1,3 @@
-- 👋 Hi, I’m NV
-- 👀 I’m interested in powerlifting, crypto-finance and mobile-tech
+- 👋 Hi,
+- 👀 I’m interested in powerlifting, decentralized finance and mobile-tech
 - 🌱 I’m currently trying to improve my enterprise mobility skills
