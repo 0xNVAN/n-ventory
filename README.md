@@ -1,5 +1,3 @@
 - 👋 Hello, World!
 - 🌱 Currently working on azure ☁️, enterprise mobility 📱 & security 🔐
 - 😎 Other hobbies include powerlifting 💪, decentralized finance 💸 and consuming large amounts of coffee ☕
-- 👀 Feel free to take a look around
-- 👨‍💻 You'll find random script dumps and a glimpse into my personal projects 🛠️
