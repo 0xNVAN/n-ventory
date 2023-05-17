@@ -1,3 +1,3 @@
 - 👋 Hello, World!
 - 🌱 Currently working on azure ☁️, enterprise mobility 📱 & security 🔐
-- 😎 Other hobbies include the use of artifical intelligence 🧠, powerlifting 💪, decentralized finance 💸 and consuming large amounts of coffee ☕
+- 😎 Other hobbies include artifical intelligence 🧠, decentralized finance 💸 and coffee ☕
